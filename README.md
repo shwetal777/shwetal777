@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetal777)](https://github.com/shwetal777/github-readme-stats)
+
 <!--
 **shwetal777/shwetal777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
