@@ -5,6 +5,7 @@
 
 
 [![Shwetal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetal777)](https://github.com/shwetal777/github-readme-stats)
+![Shwetal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwetal777&show_icons=true&theme=radical)
 
 ---
 <!--
