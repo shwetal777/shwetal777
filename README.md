@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![image title](https://rushter.com/counter.svg)
 <!--
 **shwetal777/shwetal777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
