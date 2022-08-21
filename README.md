@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetal777)](https://github.com/shwetal777/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwetal777)](https://github.com/shwetal777/github-readme-stats)
 </p>
 
 [![Shwetal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetal777)](https://github.com/shwetal777/github-readme-stats)
